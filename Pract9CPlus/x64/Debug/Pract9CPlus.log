@@ -1,0 +1,4 @@
+﻿  Pract9CPlus.cpp
+D:\Users\illid\source\Pract9CPlus\Pract9CPlus\Pract9CPlus.cpp(19,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Users\illid\source\Pract9CPlus\Pract9CPlus\Pract9CPlus.cpp(20,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Pract9CPlus.vcxproj -> D:\Users\illid\source\Pract9CPlus\x64\Debug\Pract9CPlus.exe
